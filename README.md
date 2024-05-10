@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm KINGSLAYER</h1>
+<h1 align="center">Hi 👋, I'm Utpal</h1>
 <h3 align="center">A passionate Ethical Hacker from India</h3>
 
 - 🔭 I’m currently working on **DDOS**
