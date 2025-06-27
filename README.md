@@ -1,30 +1,66 @@
-<h1 align="center">Hi 👋, I'm Utpal</h1>
-<h3 align="center">A passionate Ethical Hacker from India</h3>
+<h1 align="center">Hi 👋, I'm Utpal Kumar</h1>
+<h3 align="center">Electronics enthusiast | C++ & Linux developer | LLM explorer</h3>
 
-- 🔭 I’m currently working on **DDOS**
+---
 
-- 🌱 I’m currently learning **LINUX ADVANCED**
+- 🔭 I’m currently working on:
+  - DNS Servers using Linux + C++
+  - GitHub Auto Commit & Automation Bots
+  - OpenAI + LLM Integration in local environments
 
-- 👯 I’m looking to collaborate on **MITM**
+- 🌱 I’m currently learning:
+  - C++ Deep Dive
+  - Electronics module design (Waveform generators, Op-Amps, FET vs BJT)
+  - Large Language Model integration (OpenAI API, local LLMs)
 
-- 🤝 I’m looking for help with **SQL INJECTION**
+- 💬 Ask me about:
+  - Electronics concepts with examples
+  - Linux server setup
+  - Git & GitHub automation
 
-- 👨‍💻 All of my projects are available at [instagram.com/_utpal.3](instagram.com/_utpal.3)
+- 📫 How to reach me: **utpalkumar@email.com**
 
-- 💬 Ask me about **react, vue and git**
+---
 
-- 📫 How to reach me **utpalk747@gmail.com**
+## 🧰 Tech Stack
 
-- ⚡ Fun fact **I think I am funny.**
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=utpalkumar&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utpalkumar&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+---
 
+## 🔧 Projects Highlight
 
-## Star History
+| Project               | Description                                      |
+|----------------------|--------------------------------------------------|
+| 🔐 DNS Server         | Custom DNS resolver with partial response logic |
+| ⚙️ Auto Commit Bot    | Backdated GitHub commits for demo contributions |
+| 🧠 LLM API Tools      | Use OpenAI APIs in local Linux systems          |
+| 📦 n8n Alternative    | Open-source automation system setup             |
 
-[![Star History Chart](https://api.star-history.com/svg?repos=https:/,Utpal3/Utpal&type=Date)](https://www.star-history.com/#https:/&Utpal3/Utpal&Date)
+---
+
+## 🧠 Fun Facts
+
+- I love making electronics topics easier with diagrams, examples, and real-world use.
+- My laptop often becomes my personal cloud server.
+- I debug systems for fun and learn by teaching others.
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</p>
